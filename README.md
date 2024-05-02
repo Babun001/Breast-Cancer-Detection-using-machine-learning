@@ -1,1 +1,0 @@
-# This is a Imaginary hand movement Classification model (Best accuracy -> 93.48 in Random Forest)
